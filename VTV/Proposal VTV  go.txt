@@ -1,0 +1,68 @@
+[DRAFT] ĐỀ XUẤT CẤU TRÚC SLIDE PITCHING VTV GO PREMIUM (Total: 40 Slides)
+
+Mục tiêu bài trình bày: triển khai hệ thống Dữ liệu (Big Data) để định hướng chiến lược thu hút 1 triệu người dùng trả phí và tối ưu quản trị nội bộ.📌 
+
+
+PHẦN 1: MỞ ĐẦU & HIỆN TRẠNG (Trọng số: 10% ~ 4 Slides)
+
+Mục đích: Đi thẳng vào bài toán kinh doanh, tạo sự đồng cảm với nỗi đau của đài
+
+.Slide 1-2: Giới thiệu mục tiêu chiến lược: Đạt 1.000.000 Paid Users cho VTV Go Premium.
+
+Slide 3-4: Nêu "Pain points" (Nỗi đau hiện tại): Dữ liệu phân mảnh, khó đo lường chính xác thị hiếu người xem để đóng gói sản phẩm bán thu tiền.
+
+📌 PHẦN 2: PHÂN TÍCH THỊ TRƯỜNG & LỢI THẾ ĐỘC BẢN CỦA VTV (Trọng số: 15% ~ 6 Slides)
+
+Mục đích: Tránh lối mòn của đối thủ, tôn vinh DNA của VTV.
+
+Slide 5-6: Case Study thị trường: Điểm mạnh/yếu của Netflix (Global), VieON, FPT Play (Local).
+
+Slide 7-10: Khai phá "Long mạch" VTV: Không chạy đua show tạp kỹ giải trí. Nhấn mạnh vào 3 trụ cột thu phí độc quyền: (1) Vũ trụ điện ảnh VFC bản uncut/4K, (2) Tin tức & Tài liệu tri thức cao, (3) Live Event quốc gia 0s trễ.
+
+
+📌 PHẦN 3: CHIẾN LƯỢC SẢN PHẨM DẪN DẮT BẰNG DỮ LIỆU (Trọng số: 25% ~ 10 Slides)
+
+Mục đích: Trình bày chiến thuật Growth Hacking (Dùng thử -> Đo lường -> Thu tiền).
+
+Slide 11-13: Đề xuất cấu trúc gói Premium dựa trên hành vi (No Ads, Multi-profile, Early Access).
+
+Slide 14-16: Kịch bản chiến dịch "Free Trial 14 ngày" kết hợp Micro-Survey (Khảo sát 1 chạm) để gom Data người dùng.
+
+Slide 17-20: Ứng dụng A/B Testing: Dùng Dữ liệu để quyết định giữ/bỏ tính năng nào trước khi chốt gói thu tiền chính thức. Đo lường tỷ lệ rớt (Churn rate).
+
+📌 PHẦN 4: KIẾN TRÚC CÔNG NGHỆ BỔ TRỢ "PLUG & PLAY" (Trọng số: 20% ~ 8 Slides)
+
+Mục đích: Thuyết phục đội Tech VTV (Làm mượt, không đập bỏ hệ thống cũ).
+
+
+Slide 21-22: Triết lý công nghệ: Tích hợp hệ thống phân tích song song, không làm gián đoạn luồng phát sóng hiện tại.
+
+
+Slide 23-26:  Mô hình Data Pipeline: .
+
+
+Slide 27-28: Trực quan hóa dữ liệu (Data Visualization) & Kết nối API Real-time.
+
+
+📌 PHẦN 5: QUẢN TRỊ NỘI BỘ & ĐO LƯỜNG HIỆU QUẢ ĐẦU TƯ (Trọng số: 15% ~ 6 Slides)
+
+
+Mục đích: "Gãi đúng chỗ ngứa" của Ban Giám đốc trong việc quản lý bộ máy khổng lồ.Slide 29-30: Xóa bỏ "Đảo dữ liệu": Đưa số liệu của Ban Thời sự, Thể thao, VFC về một "Single Source of Truth".
+
+
+Slide 31-32:  Executive Dashboard: Theo dõi chỉ số hoàn vốn (ROI) của từng chương trình/tập phim.
+
+
+Slide 33-34: Phân quyền bảo mật (RBAC) & Cảnh báo rủi ro tự động (Early Warning System).
+
+
+
+📌 PHẦN 6: LỘ TRÌNH TRIỂN KHAI & CAM KẾT (Trọng số: 15% ~ 6 Slides)
+
+
+Mục đích: Đưa ra Action Plan rõ ràng, thực tế để chốt dự án.
+
+
+Slide 35-37: Lộ trình 3 giai đoạn: PoC (Làm mẫu trên luồng Data nhỏ) $\rightarrow$ Triển khai Data Lake $\rightarrow$ Scale-up toàn đài.Slide 
+
+38-39: Dự toán nguồn lực & Bảng KPI đo lường thành công của dự án.Slide 40: Q&A và Lời cảm ơn
