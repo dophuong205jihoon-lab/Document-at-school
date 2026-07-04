@@ -1,0 +1,5 @@
+Campaign,Segment,Converted_Count,Avg_Revenue,Model_AUC
+AcceptedCmp2,Small Business (SMEs),2,46.0,1.0
+AcceptedCmp2,Mid-Market Enterprise,7,846.29,0.4925
+AcceptedCmp2,Large Enterprise - Cloud Focus,18,1611.17,0.7943
+AcceptedCmp2,Large Enterprise - ERP & Cyber Focus,3,1404.33,0.4939
